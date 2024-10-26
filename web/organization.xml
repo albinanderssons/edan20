@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>News and Organization</title>
+
+
+    <title>EDAN20 – Language Technology</title>
+
+</head>
+<body>
+<!--<h1>News and Organization</h1>--> <h2>Latest News</h2>
+<table cellspacing="5">
+    <!--<tr> <td valign="top">2013-09-02</td> <td valign="top">We have now one <i>kursombud</i>: Henrik Lindelöf Bilski. </td> </tr>-->
+    <tr>
+        <td valign="top">2024-08-23</td>
+        <td valign="top">Registration <br/>You should formally register in the LADOK system, preferably
+            before the course starts. You have the
+            instructions here in <a
+                    href="https://www.student.lth.se/kurs-och-programinformation/kursanmaelan-och-registrering/kursregistrering/">
+                Swedish </a> and in <a href="https://www.student.lth.se/english/masters-students/register-for-courses/">
+                English</a>. If
+            you fail to register, the department might register you anyway, if you attended the first lecture and if you
+            meet the prerequisites.
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">2024-08-23</td>
+        <td valign="top">Please register to a laboratory group here: <a
+                href="https://sam.cs.lth.se/LabsSelectSession?occasionId=884">
+            https://sam.cs.lth.se/LabsSelectSession?occasionId=884</a>.
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">2024-08-23</td>
+        <td valign="top">The first lecture will be given on Monday, September 2, 13-15.</td>
+    </tr>
+    <tr>
+        <td valign="top">2024-08-23</td>
+        <td valign="top">There can be last
+            minute changes in the timetable that do not show on the course web pages. Please always check the official
+            times here: <a href="https://cloud.timeedit.net/lu/web/lth1/ri1Q5006.html">
+                https://cloud.timeedit.net/lu/web/lth1/ri1Q5006.html
+            </a></td>
+    </tr>
+
+    <tr>
+        <td valign="top">2024-08-23</td>
+        <td valign="top">The course pages are provisional. They will be updated regularly.</td>
+    </tr>
+</table>
+
+<h2>Course Description</h2>
+<p>
+    The course introduces theories and techniques of language technology and natural language processing. It focuses on
+    industrial or laboratory applications, such as document retrieval on the internet, information
+    extraction, and conversational agents. Fundamental algorithms will be
+    described using Python, NumPy, or PyTorch.
+</p>
+
+<h2>Schedule</h2>
+<p>The course extends over the LP1 "<a
+        href="https://www.lu.se/studera/valja-studier/att-studera-pa-universitetet/studiearet-terminstider">study
+    period</a>".
+</p>
+<p>For a detailed timetable of the lectures and labs, please visit this page:
+    <a
+            href="https://cloud.timeedit.net/lu/web/lth1/ri1Q5006.html">
+        https://cloud.timeedit.net/lu/web/lth1/ri1Q5006.html
+    </a> and enter the course code: EDAN20.
+</p>
+<h2>Personnel</h2>
+<ul>
+    <li>Pierre Nugues, course responsible.
+    </li>
+    <li><a href="mailto:expedition@cs.lth.se">Ulrika Templing</a>, sekreterare (LTH), tfn: 046-222 80 40,
+        rum: <a
+                href="http://fileadmin.cs.lth.se/cs/Bilder/Rum/E2179.gif">E:2179</a>.
+    </li>
+</ul>
+<h2>Passing the Course</h2>
+<p>To pass the course, you must carry out and validate all the programming assignments and hand in all the
+    individual lab reports. You will then obtain a mark of 3. You can sit the optional examination to improve
+    your mark to a 4 or a 5.
+</p>
+<table cellspacing="5">
+    <tbody>
+    <tr>
+        <td valign="top">
+            <strong>Type</strong>
+        </td>
+        <td valign="top">
+            <strong>Number</strong>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">Report on Python programming</td>
+        <td valign="top">1</td>
+        <td valign="top">Obligatory</td>
+    </tr>
+    <tr>
+        <td valign="top">Programming assignments</td>
+        <td valign="top">6</td>
+        <td valign="top">Obligatory</td>
+    </tr>
+    <tr>
+        <td valign="top">Individual lab reports</td>
+        <td valign="top">6</td>
+        <td valign="top">Obligatory</td>
+    </tr>
+    <tr>
+        <td valign="top">Examination</td>
+        <td valign="top">1</td>
+        <td valign="top">Optional</td>
+    </tr>
+    </tbody>
+</table>
+<h2>Course Literature</h2>
+<p>As textbook, I will use: <i>Python for Natural Language Processing</i>, 2024, Springer. It is
+    available from Springer Link: <a href="https://link.springer.com/book/10.1007/978-3-031-57549-5">https://link.springer.com/book/10.1007/978-3-031-57549-5</a>.
+</p>
+<p>You can access the book from the catalogue of Lund University Libraries: <a
+        href="https://lubcat.lub.lu.se">https://lubcat.lub.lu.se/</a>. Once connected, you can download the PDF or read
+    the chapters online.
+</p>
+<p>Other references of interest include:</p>
+<ul>
+    <li>Steven Bird, Ewan Klein, and Edward Loper, <em>Natural Language Processing with Python---Analyzing Text
+        with the Natural Language Toolkit</em>, O'Reilly, 2009. An on-line version of this book as well as many
+        programs and corpora are available from the
+        <a href="http://www.nltk.org/">http://www.nltk.org/</a>
+        site.
+    </li>
+    <li>Daniel Jurafsky and James H. Martin, <em>Speech and Language Processing</em>, 2nd ed., Prentice Hall,
+        2008. They are preparing a 3rd edition available here: <a href="https://web.stanford.edu/~jurafsky/slp3/">https://web.stanford.edu/~jurafsky/slp3/</a>.
+    </li>
+</ul>
+</body>
+</html>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC
+        "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>EDAN20 – Language Technology</title>
+</head>
+<body>
+<!--<h1>EDAN20 – Language Technology</h1>-->
+<p>
+    <b>This page is provisional and is being constantly updated</b>
+</p>
+<p>The first lecture will be held on September 2nd, 2024, 13-15.
+</p>
+<p>The course has three pages:</p>
+<ol>
+    <li>The official course page,
+        <a href="https://cs.lth.se/edan20/">https://cs.lth.se/edan20/</a>;
+    </li>
+    <li>Canvas, used mainly to hand in assignments and manage communication with the participants;</li>
+    <li>GitHub, where I store the labs descriptions <a href="https://github.com/pnugues/edan20">
+        https://github.com/pnugues/edan20
+    </a> and
+        the programs used in the course
+        <a href="https://github.com/pnugues/pnlp">https://github.com/pnugues/pnlp</a>.
+    </li>
+</ol>
+<p>The complete schedule for September/October 2024 is available here: <a
+        href="https://cloud.timeedit.net/lu/web/lth1/ri1X50gQ9560YfQQ15Z5774Y0Zy7007335Y67Q565.html">
+    https://cloud.timeedit.net/lu/web/lth1/ri1Q5006.html</a>. Use the
+    <i>course schedule</i>
+    or <i>lässchema</i> links and enter EDAN20 to view the course schedule.
+</p>
+<h2>Course Delivery</h2>
+<p>This year, all the lecture classes or labs will be physical. We will not use Zoom (normaly).
+</p>
+<h2>Course Registration</h2>
+<p>
+    You should formally register in the LADOK system, preferably before the course starts.
+    You have the instructions here in <a
+        href="https://www.student.lth.se/kurs-och-programinformation/kursanmaelan-och-registrering/kursregistrering/">
+    Swedish
+</a> and
+    in <a
+        href="https://www.student.lth.se/english/masters-students/register-for-courses/">
+    English</a>. If you fail to register, the department might register you
+    anyway, if you attended the first lecture and meet all the requirements.
+</p>
+<!--    <p>Due to a meeting in Gothenburg on September 13, 2011, the class is cancelled for this date (13/09/2011). It will be replaced by a lecture on September 23, room E:B.
+        </p>-->
+<h2>Lab Registration</h2>
+<p>
+    You have to register to a laboratory group. Please do it here:
+    <a
+            href="https://sam.cs.lth.se/LabsSelectSession?occasionId=884">
+        https://sam.cs.lth.se/LabsSelectSession?occasionId=884
+    </a>
+</p>
+<p>We will also use Discord for the lab sessions.
+</p>
+<h2>Objectives</h2>
+<p>The course introduces theories and techniques of natural language processing and language technology.
+    It focuses on industrial or laboratory applications, such as document retrieval on the Internet, information
+    extraction, or conversational agents. Fundamental algorithms will be
+    described using Python.
+</p>
+<h2>Course contents</h2>
+<ul>
+    <li>An Overview of Language Processing</li>
+    <li>Corpus Processing Tools</li>
+    <li>Encoding and Annotation Schemes</li>
+    <li>Topics in Information Theory and Machine Learning</li>
+    <li>Logistic Regression and Neural Networks</li>
+    <li>Counting and Indexing Words</li>
+    <li>Word Sequences</li>
+    <li>Dense Vector Representations</li>
+    <li>Words, Parts of Speech, and Morphology</li>
+    <li>Subword Segmentation</li>
+    <li>Part-of-Speech and Sequence Annotation</li>
+    <li>Self-Attention and Transformers</li>
+    <li>Pretraining an Encoder: The BERT Language Model</li>
+    <li>Sequence-to-Sequence Architectures: Encoder-Decoders and Decoders</li>
+</ul>
+<h2>Textbook</h2>
+<p>As textbook, I will use: <i>Python for Natural Language Processing</i>, 2024, Springer. It is
+    available from Springer Link: <a href="https://link.springer.com/book/10.1007/978-3-031-57549-5">https://link.springer.com/book/10.1007/978-3-031-57549-5</a>.
+</p>
+<p>You can access the book from the catalogue of Lund University Libraries: <a
+        href="https://lubcat.lub.lu.se">https://lubcat.lub.lu.se/</a>. Once connected, you can download the PDF or read
+    the chapters online.
+</p>
+<h2>Administrative details</h2>
+<p>
+    <strong>Ges:</strong>
+    Läsperiod HT1
+</p>
+<p>
+    <strong>Kontaktperson:</strong>
+    Pierre Nugues
+</p>
+<p>
+    <strong>Förkunskapskrav:</strong>
+    Se <a href="https://kurser.lth.se/kursplaner/19_20/EDAN20.html">kursplanen</a>.
+</p>
+<p>
+    <strong>OBS! Kursen ges på engelska</strong>
+</p>
+<p>
+    <strong>Kurswebb:</strong>
+    <a href="http://cs.lth.se/edan20">http://cs.lth.se/edan20</a>
+</p>
+</body>
+</html>
